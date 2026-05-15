@@ -1,6 +1,6 @@
 # Prediksi Harga Saham LQ45 — LSTM vs TFT
 
-Skripsi ini membandingkan dua model deep learning, LSTM dan Temporal Fusion Transformer (TFT), 
+Project ini membandingkan dua model deep learning, LSTM dan Temporal Fusion Transformer (TFT), 
 untuk memprediksi harga penutupan saham pada indeks LQ45 di Bursa Efek Indonesia periode 2020–2025.
 
 Data dikumpulkan melalui Yahoo Finance API (yfinance) dan disimpan ke database MySQL, 

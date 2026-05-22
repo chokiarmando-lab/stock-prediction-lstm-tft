@@ -1,4 +1,4 @@
-# Prediksi Harga Saham LQ45 — LSTM vs TFT
+# Prediksi Harga Saham LQ45 LSTM vs TFT
 
 Project ini membandingkan dua model deep learning, LSTM dan Temporal Fusion Transformer (TFT), 
 untuk memprediksi harga penutupan saham pada indeks LQ45 di Bursa Efek Indonesia periode 2020–2025.
@@ -31,4 +31,4 @@ Buka notebook di folder `03_colab` secara berurutan dari 01 sampai 05 menggunaka
 
 ## Penulis
 
-Choki
+Choki Armando
